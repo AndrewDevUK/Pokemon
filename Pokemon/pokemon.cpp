@@ -266,7 +266,7 @@ public:
 
         system("cls");
         std::cout << "******************************************************" << std::endl;
-        std::cout << "               Pokemon Battle Simulator               " << std::endl;
+        std::cout << "               Pokemon Battle Simulator      ver 1.0  " << std::endl;
         std::cout << "Written by Andrew Morgan                  ©Nintendo   " << std::endl;
         std::cout << "******************************************************" << std::endl << std::endl;
 
